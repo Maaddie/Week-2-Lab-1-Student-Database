@@ -1,0 +1,14 @@
+C:\Users\mvarasteanu\source\repos\Week2 Lab1 Student Database\Week2 Lab1 Student Database\bin\Debug\netcoreapp3.1\Week2 Lab1 Student Database.exe
+C:\Users\mvarasteanu\source\repos\Week2 Lab1 Student Database\Week2 Lab1 Student Database\bin\Debug\netcoreapp3.1\Week2 Lab1 Student Database.deps.json
+C:\Users\mvarasteanu\source\repos\Week2 Lab1 Student Database\Week2 Lab1 Student Database\bin\Debug\netcoreapp3.1\Week2 Lab1 Student Database.runtimeconfig.json
+C:\Users\mvarasteanu\source\repos\Week2 Lab1 Student Database\Week2 Lab1 Student Database\bin\Debug\netcoreapp3.1\Week2 Lab1 Student Database.runtimeconfig.dev.json
+C:\Users\mvarasteanu\source\repos\Week2 Lab1 Student Database\Week2 Lab1 Student Database\bin\Debug\netcoreapp3.1\Week2 Lab1 Student Database.dll
+C:\Users\mvarasteanu\source\repos\Week2 Lab1 Student Database\Week2 Lab1 Student Database\bin\Debug\netcoreapp3.1\Week2 Lab1 Student Database.pdb
+C:\Users\mvarasteanu\source\repos\Week2 Lab1 Student Database\Week2 Lab1 Student Database\obj\Debug\netcoreapp3.1\Week2 Lab1 Student Database.csproj.AssemblyReference.cache
+C:\Users\mvarasteanu\source\repos\Week2 Lab1 Student Database\Week2 Lab1 Student Database\obj\Debug\netcoreapp3.1\Week2 Lab1 Student Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvarasteanu\source\repos\Week2 Lab1 Student Database\Week2 Lab1 Student Database\obj\Debug\netcoreapp3.1\Week2 Lab1 Student Database.AssemblyInfoInputs.cache
+C:\Users\mvarasteanu\source\repos\Week2 Lab1 Student Database\Week2 Lab1 Student Database\obj\Debug\netcoreapp3.1\Week2 Lab1 Student Database.AssemblyInfo.cs
+C:\Users\mvarasteanu\source\repos\Week2 Lab1 Student Database\Week2 Lab1 Student Database\obj\Debug\netcoreapp3.1\Week2 Lab1 Student Database.csproj.CoreCompileInputs.cache
+C:\Users\mvarasteanu\source\repos\Week2 Lab1 Student Database\Week2 Lab1 Student Database\obj\Debug\netcoreapp3.1\Week2 Lab1 Student Database.dll
+C:\Users\mvarasteanu\source\repos\Week2 Lab1 Student Database\Week2 Lab1 Student Database\obj\Debug\netcoreapp3.1\Week2 Lab1 Student Database.pdb
+C:\Users\mvarasteanu\source\repos\Week2 Lab1 Student Database\Week2 Lab1 Student Database\obj\Debug\netcoreapp3.1\Week2 Lab1 Student Database.genruntimeconfig.cache
